@@ -36,7 +36,7 @@ _Created by by S. Tucker Taft, on of the main deisgner of Ada95 and upward._
 - Work stealing is used for scheduling ParaSail's light-weight threads.
 - Can interface Ada and C.
 
-## Preparation
+## Here We Go!
 
 ### Windows
 
