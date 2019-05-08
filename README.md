@@ -53,7 +53,12 @@ Copy and paste this line at the cmd:
 ```
 $ parasail_main.exe fib.psl "../lib/aaa.psi"
 ```
-If everything goes well the REPL should give you this: 'Command to execute: '. Now enter:
+If everything goes well the REPL should give you this:
+
+```
+Command to execute:
+```
+Now enter:
 ```
 $ Fib 8
 ```
@@ -61,14 +66,23 @@ $ Fib 8
 Result :  21
 Command to execute: 
 ```
+Now enter:
 ```
 $ main 8
 ```
-If everything goes well the REPL should give you this: 'Fib(8) = 21'. Now enter:
+```
+Fib(8) = 21
+Command to execute: 
+```
+Now enter:
 ```
 $ main 7 9
 ```
-If everything goes well the REPL should give you this: 'Fib(7) = 13 Fib(9) = 34'.
+```
+Fib(7) = 13
+Fib(9) = 34
+Command to execute:
+```
 
 Now open fib.psl in your prefered text editor and study it. You should understand most of it right away without even studying ParaSail.
 
