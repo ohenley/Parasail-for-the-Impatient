@@ -48,33 +48,23 @@ Pretentious but important note: if the previous points do not convince you to tr
 - Open a command prompt inside the folder "/where-you-just-unzipped-ParaSail/parasail_release_8_0/examples"
 
 ### Not Hello World ...
-Copy and paste this line at the cmd:
-```
-parasail_main.exe fib.psl "../lib/aaa.psi"
-```
-If everything goes well the REPL should give you this:
+Copy and paste this line at the cmd: ```parasail_main.exe fib.psl "../lib/aaa.psi"```
 
+If everything goes well the REPL should give you this:
 ```
 Command to execute:
 ```
-Now enter ```diff Fib 8```
-
+Now enter ```Fib 8```
 ```
 Result :  21
 Command to execute: 
 ```
-Now enter:
-```
-main 8
-```
+Now enter ```main 8```
 ```
 Fib(8) = 21
 Command to execute: 
 ```
-Now enter:
-```
-main 7 9
-```
+Now enter:```main 7 9```
 ```
 Fib(7) = 13
 Fib(9) = 34
