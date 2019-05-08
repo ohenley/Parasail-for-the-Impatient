@@ -57,8 +57,10 @@ If everything goes well the REPL should give you this: 'Command to execute: '. N
 ```
 $ Fib 8
 ```
+```
 Result :  21
 Command to execute: 
+```
 ```
 $ main 8
 ```
