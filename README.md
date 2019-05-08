@@ -1,6 +1,6 @@
 # ParaSail for the Impatient
 
-## To whom
+## To whom? Awww you can skip this section...
 
 - You like to test drive everything right away? 
 - You just got some headlines about ParaSail and ... OMG, I need to try it Right-F....-Now! 
@@ -11,9 +11,8 @@
 
 You are like me, an impatient.
 
-## What you need to know
 
-### Why would it interest me? Awww you can skip this section...
+## Why would it interest me? Awww skip too...
 
 "ParaSail" stands for Parallel, Specification and Implementation Language. 
 * Created by by S. Tucker Taft, on of the main deisgner of Ada95 and upward. 
@@ -39,9 +38,9 @@ You are like me, an impatient.
 
 Pretentious but important note: if the previous points do not convince you to try ParaSail it is probably because you do not understand their implications for the craft of programming or you are just born stupid. The only thing I can tell you is that you will inevitably care one day or another under one form or another. Better save you the trouble right away...  
 
-### Preparation
+## Preparation
 
-#### Windows
+### Windows
 
 - If not done already, download [ParaSail](https://drive.google.com/file/d/1h6FiwuZU9PoNFEp5a3Lp4C-6YG121w_n/view).
 - Unzip it somewhere on your file system.
@@ -84,6 +83,6 @@ Fib(9) = 34
 Command to execute:
 ```
 
-Now open fib.psl in your prefered text editor and study it. You should understand most of it right away even without prior ParaSail training.
+Now open fib.psl in your prefered text editor and study it. IF you already programmed and know about the classic recursive Fibonaci method you should understand most of the code right away even without prior ParaSail training.
 
 
