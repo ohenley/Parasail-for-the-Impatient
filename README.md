@@ -84,6 +84,6 @@ Fib(9) = 34
 Command to execute:
 ```
 
-Now open fib.psl in your prefered text editor and study it. You should understand most of it right away without even studying ParaSail.
+Now open fib.psl in your prefered text editor and study it. You should understand most of it right away even without prior ParaSail training.
 
 
