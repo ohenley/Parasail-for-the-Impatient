@@ -2,12 +2,12 @@
 
 ## To whom
 
--You like to test drive everything right away? 
--You just got some headlines about ParaSail and ... OMG, I need to try it Right-F....-Now! 
--Reference manuals gives you impatient legs? 
--You are not afraid to have your hands dirty?
--More often than not you like brain dead instructions
--You ride a bike without a helmet...
+- You like to test drive everything right away? 
+- You just got some headlines about ParaSail and ... OMG, I need to try it Right-F....-Now! 
+- Reference manuals gives you impatient legs? 
+- You are not afraid to have your hands dirty?
+- More often than not you like brain dead instructions
+- You ride a bike without a helmet...
 
 You are like me, an impatient.
 
