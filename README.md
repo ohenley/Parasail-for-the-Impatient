@@ -45,11 +45,11 @@ Pretentious but important note: if the previous points do not convince you to tr
 
 - If not done already, download [ParaSail](https://drive.google.com/file/d/1h6FiwuZU9PoNFEp5a3Lp4C-6YG121w_n/view).
 - Unzip it somewhere on your file system.
-- Add the following path "/where-you-just-unzipped-ParaSail/parasail_release_8_0/\_win" to your system environment variables. Note: On windows, adding these variables sucks big time, so I recommend downloading and installing [Rapid Environment Editor: REE](https://www.rapidee.com/en/download) Then open it and append "/where-you-just-unzipped-ParaSail/parasail_release_8_0/\_win" to the "Path" variable (either System Variables or User Variables will make it). You can thank me later for REE...
-- Open a command line inside the folder "/where-you-just-unzipped-ParaSail/parasail_release_8_0/examples"
+- Add the following path "/where-you-just-unzipped-ParaSail/parasail_release_8_0/\_win" to your system environment variables. Note: On windows, adding these variables sucks big time, so I recommend downloading and installing [Rapid Environment Editor: REE](https://www.rapidee.com/en/download). Once installed open it and append "/where-you-just-unzipped-ParaSail/parasail_release_8_0/\_win" to the "Path" variable (either System Variables or User Variables will make it). You can thank me later for REE...
+- Open a command prompt inside the folder "/where-you-just-unzipped-ParaSail/parasail_release_8_0/examples"
 
 ### Not Hello World ...
-Copy and paste this line at the command prompt:
+Copy and paste this line at the cmd:
 ```
 $ parasail_main.exe fib.psl "../lib/aaa.psi"
 ```
@@ -57,7 +57,8 @@ If everything goes well the REPL should give you this: 'Command to execute: '. N
 ```
 $ Fib 8
 ```
-If everything goes well the REPL should give you this: 'Result :  21'. Now enter:
+Result :  21
+Command to execute: 
 ```
 $ main 8
 ```
