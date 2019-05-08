@@ -57,7 +57,7 @@ If everything goes well the REPL should give you this:
 ```
 Command to execute:
 ```
-Now enter <span style="color:blue">Fib 8</span>
+Now enter ```diff Fib 8```
 
 ```
 Result :  21
