@@ -74,7 +74,7 @@ Command to execute:
 1. parasail_main.exe is the ParaSail interpreter. If you want to compile fib.psl machine code, its an upcomming lesson.
 2. Ok fib.psl is your program file... self evident.
 3. "../lib/aaa.psi" is the standard library. You must include it else, the program will not build.
-4. From the command line we see that we can directly call functions from fib.psl.
+4. From the command line we see that we can directly call the functions contained in fib.psl.
 5. From the command line we see that we can call the main function, found in fib.psl, and that it can take a variable number of parameters; namely to compute Fib(v0) ... Fib(vn) and print the result.
 
 Now open fib.psl in your prefered text editor and study it. If you already programmed and know about the classic recursive Fibonaci method you should understand most of the code right away even without prior ParaSail training.
