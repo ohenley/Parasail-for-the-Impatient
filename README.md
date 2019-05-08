@@ -69,7 +69,7 @@ Fib(9) = 34
 Command to execute:
 ```
 
-#### Wha is going on?
+#### What is going on?
 
 1. parasail_main.exe is the ParaSail interpreter. If you want to compile fib.psl machine code, its an upcomming lesson.
 2. Ok fib.psl is your program file... self evident.
