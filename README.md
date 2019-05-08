@@ -50,17 +50,15 @@ Pretentious but important note: if the previous points do not convince you to tr
 ### Not Hello World ...
 Copy and paste this line at the cmd:
 ```
-$ parasail_main.exe fib.psl "../lib/aaa.psi"
+parasail_main.exe fib.psl "../lib/aaa.psi"
 ```
 If everything goes well the REPL should give you this:
 
 ```
 Command to execute:
 ```
-Now enter:
-```
-Fib 8
-```
+Now enter <span style="color:blue">Fib 8</span>
+
 ```
 Result :  21
 Command to execute: 
