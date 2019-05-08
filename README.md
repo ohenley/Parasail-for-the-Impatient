@@ -15,7 +15,7 @@ You are like me, an impatient.
 ## Why would it interest me? Awww skip too...
 
 "ParaSail" stands for Parallel, Specification and Implementation Language. 
-* Created by by S. Tucker Taft, on of the main deisgner of Ada95 and upward. 
+_Created by by S. Tucker Taft, on of the main deisgner of Ada95 and upward_
 
 - Is an object-oriented parallel programming language.
 - Provides support for both implicit and explicit parallelism.
@@ -64,7 +64,7 @@ Now enter ```main 8```
 Fib(8) = 21
 Command to execute: 
 ```
-Now enter:```main 7 9```
+Now enter ```main 7 9```
 ```
 Fib(7) = 13
 Fib(9) = 34
