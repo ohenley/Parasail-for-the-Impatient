@@ -60,7 +60,7 @@ Command to execute:
 ```
 Now enter:
 ```
-$ Fib 8
+Fib 8
 ```
 ```
 Result :  21
@@ -68,7 +68,7 @@ Command to execute:
 ```
 Now enter:
 ```
-$ main 8
+main 8
 ```
 ```
 Fib(8) = 21
@@ -76,7 +76,7 @@ Command to execute:
 ```
 Now enter:
 ```
-$ main 7 9
+main 7 9
 ```
 ```
 Fib(7) = 13
