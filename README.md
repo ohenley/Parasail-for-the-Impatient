@@ -14,8 +14,8 @@ You are like me, an impatient.
 
 ## Why would it interest me? Awww skip too...
 
-"ParaSail" stands for Parallel, Specification and Implementation Language. 
-_Created by by S. Tucker Taft, on of the main deisgner of Ada95 and upward_
+"ParaSail" stands for Parallel, Specification and Implementation Language.     
+_Created by by S. Tucker Taft, on of the main deisgner of Ada95 and upward._
 
 - Is an object-oriented parallel programming language.
 - Provides support for both implicit and explicit parallelism.
