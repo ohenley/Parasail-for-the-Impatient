@@ -6,7 +6,7 @@
 - You just got some headlines about ParaSail and ... OMG, I need to try it Right-Now! 
 - Reference manuals gives you restless legs syndrome? 
 - You are not afraid to have your hands dirty?
-- More often than not you like brain dead instructions
+- More often than not you appreciate 'cheatsheet' instructions
 - You ride a bike without a helmet...
 
 You are like me, an impatient.
