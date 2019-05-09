@@ -15,7 +15,7 @@ You are like me, an impatient.
 ## Why would it interest me? Awww skip too...
 
 "ParaSail" stands for Parallel, Specification and Implementation Language.     
-_Created by by S. Tucker Taft, on of the main deisgner of Ada95 and upward._
+_Created by S. Tucker Taft, one of the main designer of Ada95 and upward._   
 
 - Is an object-oriented parallel programming language.
 - Provides support for both implicit and explicit parallelism.
@@ -28,7 +28,7 @@ _Created by by S. Tucker Taft, on of the main deisgner of Ada95 and upward._
   - invariants that apply across all operations within a module
   - constraints that apply to individual instances of a module
 - Types can be recursive, so long as the recursive components are declared optional. 
-- Subtyping 'ala' Ada is core.
+- Subtyping 'a la' Ada is core.
 - There are no global variables, no parameter aliasing, and all subexpressions of an expression can be evaluated in parallel. 
 - Assertions, preconditions, postconditions, class invariants, etc., are part of the standard syntax, using a Hoare-like notation. 
 - Any possible race conditions are detected at compile time.
@@ -36,9 +36,9 @@ _Created by by S. Tucker Taft, on of the main deisgner of Ada95 and upward._
 - Work stealing is used for scheduling ParaSail's light-weight threads.
 - Can interface Ada and C.
 
-## Here We Go!
+## Let's Go!
 
-### Windows
+### On Windows
 
 - If not done already, download [ParaSail](https://drive.google.com/file/d/1h6FiwuZU9PoNFEp5a3Lp4C-6YG121w_n/view).
 - Unzip it somewhere on your file system.
