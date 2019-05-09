@@ -1,6 +1,6 @@
 # ParaSail for the Impatient
 
-## To whom? Awww you can skip this section...
+## To whom? Awww you can skip this...
 
 - You like to test drive everything right away? 
 - You just got some headlines about ParaSail and ... OMG, I need to try it Right-Now! 
@@ -45,7 +45,7 @@ _Created by S. Tucker Taft, one of the main designer of Ada95 and upward._
 - Add the following path "/where-you-just-unzipped-ParaSail/parasail_release_8_0/\_win" to your system environment variables. Note: On windows, adding these variables sucks big time, so I recommend downloading and installing [Rapid Environment Editor: REE](https://www.rapidee.com/en/download). Once installed open it and append "/where-you-just-unzipped-ParaSail/parasail_release_8_0/\_win" to the "Path" variable (either System Variables or User Variables will make it). You can thank me later for REE...
 - Open a command prompt inside the folder "/where-you-just-unzipped-ParaSail/parasail_release_8_0/examples"
 
-### Please Not Hello World ...
+### Please Skip Hello World ...
 Copy and paste this line at the cmd: ```parasail_main.exe fib.psl "../lib/aaa.psi"```
 
 If everything goes well the REPL should give you this:
